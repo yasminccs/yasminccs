@@ -1,16 +1,22 @@
-## Hi there 👋
+### Bem-vindo ao meu perfil!
 
-<!--
-**yasminccs/yasminccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 👨💻 Olá me chamo Yasmin Cibreiros Chagas, tenho 22 anos e estou no 4° semestre do curso de Ciência da Computação.
+- 🌱 Estudo na Universidade Veiga de Almeida.
+- 📚 Estudando atualmente sobre Metodologias Ágeis, Java e Spring Boot.
+- 💪🏼 Metas: Aprender novas tecnologias e articipar de diferentes projetos.
+- 💻 Meu **[LinkedIn](https://www.linkedin.com/in/yasminccs/)**.
+- 📫 Como entrar em contato: **yascibre@gmail.com**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens que uso
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,python,mysql,html,css)](https://skillicons.dev)
+
+## Algumas tecnologias que uso
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,spring,figma,vscode,idea,notion)](https://skillicons.dev)
+
+## Estatísticas do Github
+
+![yasminccs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminccs&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
