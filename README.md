@@ -16,7 +16,3 @@
 ## Algumas tecnologias que uso
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,spring,figma,vscode,idea,notion)](https://skillicons.dev)
-
-## Estatísticas do Github
-
-![yasminccs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminccs&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
