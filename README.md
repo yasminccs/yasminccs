@@ -2,10 +2,9 @@
 
 ## Sobre mim
 
-- 👨💻 Olá me chamo Yasmin Cibreiros Chagas, tenho 22 anos e estou no 4° semestre do curso de Ciência da Computação.
-- 🌱 Estudo na Universidade Veiga de Almeida.
+- 👨💻 Olá me chamo Yasmin Cibreiros Chagas, tenho 22 anos e estou cursando Ciência da Computação.
 - 📚 Estudando atualmente sobre Metodologias Ágeis, Java e Spring Boot.
-- 💪🏼 Metas: Aprender novas tecnologias e articipar de diferentes projetos.
+- 💪🏼 Metas: Aprender novas tecnologias e participar de diferentes projetos.
 - 💻 Meu **[LinkedIn](https://www.linkedin.com/in/yasminccs/)**.
 - 📫 Como entrar em contato: **yascibre@gmail.com**.
 
