@@ -2,8 +2,7 @@
 
 ## Sobre mim
 
-- 👨💻 Olá me chamo Yasmin Cibreiros Chagas, tenho 22 anos e estou cursando Ciência da Computação.
-- 📚 Estudando atualmente sobre Metodologias Ágeis, Java e Spring Boot.
+- 👨💻 Olá me chamo Yasmin Cibreiros Chagas, tenho 23 anos e estou cursando Ciência da Computação.
 - 💪🏼 Metas: Aprender novas tecnologias e participar de diferentes projetos.
 - 💻 Meu **[LinkedIn](https://www.linkedin.com/in/yasminccs/)**.
 - 📫 Como entrar em contato: **yascibre@gmail.com**.
